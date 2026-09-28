@@ -1,0 +1,16 @@
+body {
+        font-family: Arial;
+        text-align: center;
+    }
+ul {
+        text-align: left;
+}
+    h1 {
+        color: blue;
+    }
+
+    button {
+        background: green;
+        color: white;
+        padding: 10px 20px;
+    }

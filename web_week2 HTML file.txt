@@ -1,0 +1,11 @@
+<h1>Welcome to My Website</h1>
+<p>My Courses for Fall Semester!!!</p>
+<ul>
+  <li>Introduction to C++</li>
+  <li>Islamic Studies</li>
+  <li>Calculus I</li>
+  <li>Web Programming</li>
+  <li>Network Communications</li>
+
+</ul>
+<button onclick="welcome()">Click Me</button>
