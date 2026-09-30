@@ -1,12 +1,13 @@
 body {
         font-family: tahoma, sans-serif, Arial;
         text-align: center;
+        font-sixe: 12pt;
     }
 ul {
         text-align: left;
 }
     h1 {
-        color: blue;
+        color: Red;
     }
 
     button {
